@@ -1,0 +1,4 @@
+﻿  Wektor.cpp
+C:\Users\User\source\repos\Lab03\Lab03\Wektor.cpp(47,9): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\User\source\repos\Lab03\Lab03\Wektor.cpp(51,9): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  Lab03.vcxproj -> C:\Users\User\source\repos\Lab03\Debug\Lab03.exe
