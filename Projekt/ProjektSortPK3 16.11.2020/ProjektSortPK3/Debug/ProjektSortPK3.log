@@ -1,0 +1,12 @@
+﻿  Bombelkowe.cpp
+  ProjektSortPK3.cpp
+  Punkt.cpp
+  ReadFile.cpp
+T:\PULPIT\DawidFurs\Projekt\ProjektSortPK3 16.11.2020\ProjektSortPK3\ReadFile.cpp(52,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+T:\PULPIT\DawidFurs\Projekt\ProjektSortPK3 16.11.2020\ProjektSortPK3\ReadFile.cpp(118,29): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+  Szybkie.cpp
+T:\PULPIT\DawidFurs\Projekt\ProjektSortPK3 16.11.2020\ProjektSortPK3\Szybkie.cpp(83,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Wstawianie.cpp
+  Wybieranie.cpp
+  Generowanie kodu...
+  ProjektSortPK3.vcxproj -> T:\PULPIT\DawidFurs\Projekt\ProjektSortPK3 16.11.2020\Debug\ProjektSortPK3.exe
